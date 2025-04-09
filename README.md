@@ -11,7 +11,6 @@ Hello! My name is Arseniy Kudryashov, I am 21 years old, and I am a Backend Deve
 ## About Me:
 - I live in Tver, but I am open to relocation if needed.
 - In 2023, I worked as a team lead and successfully brought a project from scratch to release.
-- I have experience with various task boards (Jira, Trello, Miro) and version control systems (GitHub, Bitbucket, GitLab).
 
 ## My stack
 <div>
