@@ -25,5 +25,4 @@ Hello! My name is Arseniy, I am 21 years old, and I am a Backend Developer with 
 </div>
 
 ## Additional Information:
-- **GitHub**: [Ty4kaaDev](https://github.com/Ty4kaaDev)
 - **Telegram**: [@ty4kaa](https://t.me/ty4kaa)
