@@ -1,3 +1,11 @@
+#  #######           ##   ##
+#     #              ##   ##
+#     #     #     #  ##   ##  #     #  #######  #######
+#    ##     #     #  # #####  #    #   #     #  #     #
+#    ##     #######       ##  #####    #######  #######
+#    ##           #       ##  #    #   #     #  #     #
+#    ##     #######       ##  #     #  #     #  #     #
+
 # Arseniy — Backend Developer
 
 Hello! My name is Arseniy, I am 21 years old, and I am a Backend Developer with over 2 years of experience.
