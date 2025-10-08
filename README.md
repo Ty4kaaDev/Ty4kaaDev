@@ -22,7 +22,7 @@ Hello! My name is Arseniy, I am 21 years old, and I am a Fullstack Developer wit
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nodejs-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJs" alt="NextJs" width="40" height="40"/>&nbsp;
 </div>
 
 ## Additional Information:
