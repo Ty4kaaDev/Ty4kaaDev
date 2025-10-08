@@ -1,6 +1,6 @@
 # Arseniy — Backend Developer
 
-Hello! My name is Arseniy, I am 21 years old, and I am a Backend Developer with over 2 years of experience.
+Hello! My name is Arseniy, I am 21 years old, and I am a Fullstack Developer with over 2 years of experience.
 
 
 ## Contact Information:
@@ -22,6 +22,7 @@ Hello! My name is Arseniy, I am 21 years old, and I am a Backend Developer with 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
 
 ## Additional Information:
