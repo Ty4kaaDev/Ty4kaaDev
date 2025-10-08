@@ -1,7 +1,3 @@
-
-* ( T )( y )( 4 )( k )( a )( a ) 
-
-
 # Arseniy — Backend Developer
 
 Hello! My name is Arseniy, I am 21 years old, and I am a Backend Developer with over 2 years of experience.
@@ -9,7 +5,7 @@ Hello! My name is Arseniy, I am 21 years old, and I am a Backend Developer with 
 
 ## Contact Information:
 - 📧 Tg: - [@Ty4kaa](https://ty4kaa.t.me)
-- 📍 Location: Tver, Russia
+- 📍 Location: SPB, Russia
 - 🚀 Open to relocation and business trips
 
 ## About Me:
